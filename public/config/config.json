@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc920D18750ECBa63154f41F902656dA2B57879aB",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xc920D18750ECBa63154f41F902656dA2B57879aB",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Scary Eyes",
+  "SYMBOL": "SE",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/scaryeye",
+  "SHOW_BACKGROUND": true
+}
